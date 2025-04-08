@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@source "../views";
+
+@theme {
+    --font-sans: InterVariable, sans-serif;
+}
+
+[x-cloak] {
+    display: none !important;
+}
